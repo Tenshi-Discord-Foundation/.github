@@ -2,40 +2,40 @@
 
 **Crafting elegant bots, seamless automation, and digital harmony.**
 
-Tenshi Discord Foundation — это сообщество разработчиков, создающих высококачественные Discord-боты и утилиты с эстетичным TUI, веб-админками и продуманным кодом на лучших языках программирования. Мы верим, что код может быть не только функциональным, но и красивым, а каждый проект — произведением искусства.
+Tenshi Discord Foundation is a community of developers creating high-quality Discord bots and utilities with aesthetic TUIs, web admin panels, and well-structured code written in the best programming languages. We believe that code can be not only functional but also beautiful, and every project can be a work of art.
 
 ---
 
-## 👥 О нас
-Мы — команда энтузиастов, которые объединяют навыки в программировании, дизайне и системной архитектуре для создания качественных open-source решений. Нам важно:
-- Чистота и красота кода
-- Удобство и эстетика интерфейсов
-- Реальная польза для сообществ
-- Гибкость и расширяемость проектов
+## 👥 About Us
+We are a team of enthusiasts combining skills in programming, design, and system architecture to deliver high-quality open-source solutions. Our core values are:
+- Clean and elegant code
+- User-friendly and aesthetic interfaces
+- Real benefits for communities
+- Flexibility and scalability of projects
 
-Мы не просто пишем софт — мы создаём экосистему, в которой каждый разработчик, дизайнер или тестировщик может оставить свой след.
-
----
-
-## 🌐 Наша философия Open Source
-
-Open Source — это не просто «выложить код, чтобы все видели». Это культура и экосистема, построенная на обмене знаниями, совместной разработке и коллективном улучшении софта.
-
-### 📌 Зачем выкладывать код в открытый доступ
-1. **Совместная разработка** — любой может предложить улучшения через Pull Request.
-2. **Прозрачность** — открытый код повышает доверие, особенно в проектах, связанных с безопасностью.
-3. **Обратная связь** — сообщество помогает находить баги и предлагать оптимизации.
-4. **Портфолио** — открытые проекты демонстрируют твои реальные навыки.
-5. **Долговечность** — даже заброшенный проект может быть продолжен другими.
-
-### 🏛 Роль сообществ и фондов
-- **Сообщества** объединяют программистов, дизайнеров, тестировщиков и авторов документации.
-- **Foundations** (фондации) обеспечивают защиту бренда, финансирование, юридическую поддержку и нейтралитет проекта.
-- **Коллективный интеллект** — 100 разработчиков сделают X×100 возможностей быстрее и надёжнее.
-
-### 📖 Наша цель
-Мы хотим, чтобы каждый проект был доступен, изучаем, модифицируем и улучшался всеми, кто готов внести вклад. Это про свободу знаний и долговечность идей.
+We don't just write software — we build an ecosystem where every developer, designer, or tester can leave their mark.
 
 ---
 
-💡 В мире, где код — это новый язык человечества, мы строим не просто проекты, а платформу для совместного роста и творчества.
+## 🌐 Our Open Source Philosophy
+
+Open Source is not just about “publishing code for everyone to see.” It’s a culture and ecosystem built on knowledge sharing, collaborative development, and collective software improvement.
+
+### 📌 Why Publish Code in Open Access
+1. **Collaborative development** — anyone can propose improvements via Pull Requests.
+2. **Transparency** — open code builds trust, especially for security-related projects.
+3. **Feedback** — the community helps find bugs and suggest optimizations.
+4. **Portfolio** — open projects showcase your real skills.
+5. **Longevity** — even an abandoned project can be continued by others.
+
+### 🏛 Role of Communities and Foundations
+- **Communities** bring together developers, designers, testers, and documentation writers.
+- **Foundations** provide brand protection, funding, legal support, and project neutrality.
+- **Collective intelligence** — 100 developers can create X×100 possibilities faster and more reliably.
+
+### 📖 Our Goal
+We want every project to be accessible, understandable, modifiable, and improved by anyone willing to contribute. It’s about the freedom of knowledge and the longevity of ideas.
+
+---
+
+💡 In a world where code is the new language of humanity, we don’t just build projects — we create a platform for shared growth and creativity.
